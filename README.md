@@ -36,6 +36,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
+Failure:
 ![](https://i.imgur.com/4NtNvUU.gif)
 ![](gif2-link-here)
 ![](gif3-link-here)
