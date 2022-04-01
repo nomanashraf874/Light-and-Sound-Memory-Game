@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](Screen Recording 2022-04-01 at 6.23.44 PM.mov)
-<img src="Screen Recording 2022-04-01 at 6.23.44 PM.mov" width=600>
+<mov src="Screen Recording 2022-04-01 at 6.23.44 PM.mov" width=600>
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
