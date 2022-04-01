@@ -38,9 +38,8 @@ The following **optional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 Failure:
 ![](https://i.imgur.com/4NtNvUU.gif)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+Completion:
+![](https://i.imgur.com/Er05eHW.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
