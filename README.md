@@ -43,17 +43,21 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-https://www.w3schools.com/howto/howto_js_countdown.asp
-https://stackoverflow.com/questions/20618355/how-to-write-a-countdown-timer-in-javascript
+https://stackoverflow.com/
+http://vaidehijoshi.github.io/blog/2015/01/06/the-final-countdown-using-javascripts-setinterval-plus-clearinterval-methods/
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+ The biggest challange I encounter was setting up the countdown timer that would give the player a set amount of time to execute the pattern before the round ends. The Timer should:
+ 1. Be Visible to Player
+ 2. Game ends when timer hits zero
+ 3. Timer restarts every round
+For the first part I ran into a problem trying to created a dynamically changing html text. I tried many implementations but to my disapointment none of them worked. So, I took my search to the internet and stackoverflow and got hint toward using innerHTML(document.getElementById("demo").innerHTML = "value";). The second and third part is the main functionality behind the timer. At first i thought a countdown variable would do the trick but that conflicted with the timer reset .Turns out I had to create a complex logic circuit using set and clearInterval. Athough i understood the base use cases for the functions but when it came to implementaion i was at a loss. I was also calling the functions several times leading to conflict with the existing code and all types of bugs. Thankfully I found a blog pertaining to the structure of building a countdown using similar logic. After a painful round of debugging the countdown timer was finally
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-
+   "Every answer one finds leads to ten more questions." My experience mainly lies in IOS App development. Xcode is very freindly when it comes to frontend development due to the various funtionalities using storyboards and such. Leading to the question how dynamic can you be in Web Development on the frontend aspect without the conveniencey of a platform like Xcode. My question leans toward the difficulty level of said task because I have seen some beautiful, organized and complex web applications and from what i can see these implementaions would be quite difficult! I am looking forward to exploring and learning these concepts more in depth.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[Y
 
 
 
