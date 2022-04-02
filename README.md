@@ -4,9 +4,10 @@
 
 Submitted by: **NAME**
 
-Time spent: **#** hours spent in total
+Time spent: **3** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (site:https://foamy-blush-zucchini.glitch.me/
+                  code:https://glitch.com/edit/#!/foamy-blush-zucchini)
 
 ## Required Functionality
 
@@ -57,7 +58,7 @@ For the first part I ran into a problem trying to created a dynamically changing
    "Every answer one finds leads to ten more questions." My experience mainly lies in IOS App development. Xcode is very freindly when it comes to frontend development due to the various funtionalities using storyboards and such. Leading to the question how dynamic can you be in Web Development on the frontend aspect without the conveniencey of a platform like Xcode. My question leans toward the difficulty level of said task because I have seen some beautiful, organized and complex web applications and from what i can see these implementaions would be quite difficult! I am looking forward to exploring and learning these concepts in  more depth.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-   I would try to make the webpage more user freindly. I have found that eventhough some webpages have better applications they donot do as well as their competitors simply because people give prefrence to a more visually appealing and organized website. This would require small but time consuming tweaks. I would start off by changing the color palet to make the website more vibrant. Then I would change the buttons and sounds into something more creative and original. The current ones are quite boring! As far as functionality goes i thing adding difficulty levels that vary on the number of patterns and speed they are given would create a competative aspect to the game. Overall giving it abetter look and adding more content should make the website more engaging
+   I would try to make the webpage more user freindly. I have found that eventhough some webpages have better applications they donot do as well as their competitors simply because people give prefrence to a more visually appealing and organized website. This would require small but time consuming tweaks. I would start off by changing the color palet to make the website more vibrant. Then I would change the buttons and sounds into something more creative and original. The current ones are quite boring! As far as functionality goes i thing adding difficulty levels that vary on the number of patterns and speed they are given would create a competative aspect to the game. Overall giving it abetter look and adding more content should make the website more engaging.
 
 
 ## Interview Recording URL Link
@@ -67,7 +68,7 @@ For the first part I ran into a problem trying to created a dynamically changing
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright Noman Ashraf
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
